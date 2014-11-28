@@ -85,3 +85,4 @@ The ‘automatic sort’ button resets the weighting sequence beginning from 1, 
 
 **Figure 10 List of existing Partners**
  
+ 
