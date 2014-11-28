@@ -14,10 +14,10 @@
 ## Module Purpose 
 
  
-This module is for .....
+The Partners module provides a page and a block for displaying links to the websites of cooperating organizations, together with short descriptions and optionally logos. Typical usage includes recognition of websites that refer a lot of traffic to your own and ‘thank you’ pages for sponsors.
 
  
-![image001.png](assets/image001.png)  
+![image001.png](assets/img_3.jpg)  
 *Figure 1: Main view of the XoopsPartner Module (Admin side)*
 
 # Table of Content
