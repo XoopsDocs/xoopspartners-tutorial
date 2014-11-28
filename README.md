@@ -18,6 +18,6 @@ This module is for .....
 
  
 ![image001.png](assets/image001.png)  
-*Figure 1: Main view of the Marquee Module (Admin side)*
+*Figure 1: Main view of the XoopsPartner Module (Admin side)*
 
 # Table of Content
