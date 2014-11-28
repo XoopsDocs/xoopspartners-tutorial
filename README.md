@@ -3,20 +3,12 @@
 
 # Module XoopsPartners
 #### for XOOPS 2.5.7
-  
       
 ![logoModule.png](assets/logoModule.png)
-            
-                
-                
-    
+  
 ## User Manual
-  
-  
-  
-  
-  
-© 2014 The XOOPS Project (www.xoops.org)    
+ 
+© 2014 The XOOPS Project (www.xoops.org)   
   
 
 ## Module Purpose 
