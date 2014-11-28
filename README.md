@@ -29,5 +29,4 @@ The** Partners module** provides a page and a block for displaying links to the 
 * [The User Side](book/5userside.md)
 * [Blocks](book/6blocks.md)
 * [Templates](book/7templates.md)
-* [Other](book/8other.md) //delete, if not used
 * [Module Credits](book/9credits.md)
