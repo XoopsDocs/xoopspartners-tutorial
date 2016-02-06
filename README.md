@@ -1,10 +1,10 @@
 ### _XOOPS Documentation Series_
-![logoXoops.jpg](assets/logoXoops.jpg)
+![logoXoops.jpg](en/assets/logoXoops.jpg)
 
 # Module XoopsPartners
 #### for XOOPS 2.5.7
       
-![logoModule.png](assets/logoModule.png)
+![logoModule.png](en/assets/logoModule.png)
   
 ## User Manual
  
@@ -17,10 +17,10 @@
 The** Partners module** provides a page and a block for displaying links to the websites of cooperating organizations, together with short descriptions and optionally logos. Typical usage includes recognition of websites that refer a lot of traffic to your own and ‘thank you’ pages for sponsors.
 
  
-![image001.png](assets/img_3.jpg)  
+![image001.png](en/assets/img_3.jpg)  
 *Figure 1: Main view of the XoopsPartner Module (Admin side)*
 
-## Download/Fork the Module ![](assets/forkit.png) 
+## Download/Fork the Module ![](en/assets/forkit.png) 
 
 **You can fork the module --> [here](https://github.com/XoopsModules25x/xoopspartners))** 
 
@@ -32,16 +32,16 @@ Editing the book can be done either by updating the markdown files with a text e
 
 # Table of Content
 
-* [Install/Uninstall](book/1install.md)
-* [Administration Menu](book/2administration.md)
-* [Preferences](book/3preferences.md)
-* [Operating Instructions](book/4operations.md)
-* [The User Side](book/5userside.md)
-* [Blocks](book/6blocks.md)
-* [Templates](book/7templates.md)
-* [Miscellaneous](book/8other.md) 
-* [Module Credits](book/9credits.md)
-* [About XOOPS CMS](book/10aboutxoops.md)
+* [Install/Uninstall](en/book/1install.md)
+* [Administration Menu](en/book/2administration.md)
+* [Preferences](en/book/3preferences.md)
+* [Operating Instructions](en/book/4operations.md)
+* [The User Side](en/book/5userside.md)
+* [Blocks](en/book/6blocks.md)
+* [Templates](en/book/7templates.md)
+* [Miscellaneous](en/book/8other.md) 
+* [Module Credits](en/book/9credits.md)
+* [About XOOPS CMS](en/book/10aboutxoops.md)
 
 ##License:
 
