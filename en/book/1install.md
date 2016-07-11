@@ -7,7 +7,6 @@ No special measures necessary, follow the standard installation process – extr
 **Figure 2 The Module Administration and Installation**
 
 Detailed instructions on installing modules are available in the XOOPS Operations Manual. 
-
 To uninstall the module, just click on the red arrow:
 
 ![img_2.jpg](../assets/img_5.jpg)  
