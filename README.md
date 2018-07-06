@@ -1,22 +1,22 @@
 # Introduction
 
 ![logoXoops.jpg](.gitbook/assets/logoxoops%20%281%29.jpg)
-
+      
 ## Module XoopsPartners
-
+  
 #### for XOOPS 2.5.8
-
-![logoModule.png](.gitbook/assets/logomodule.png)
-
+ 
+© 2016 XOOPS Project ([www.xoops.org](https://xoops.org)) 
+  
 ### User Manual
 
-© 2016 XOOPS Project \([www.xoops.org](http://xoops.org)\)
+© 2016 XOOPS Project \([www.xoops.org](https://xoops.org)\)
 
 ### Module Purpose
+ 
+The** Partners module** provides a page and a block for displaying links to the websites of cooperating organizations, together with short descriptions and optionally logos. Typical usage includes recognition of websites that refer a lot of traffic to your own and ‘thank you’ pages for sponsors.
 
-The **Partners module** provides a page and a block for displaying links to the websites of cooperating organizations, together with short descriptions and optionally logos. Typical usage includes recognition of websites that refer a lot of traffic to your own and ‘thank you’ pages for sponsors.
-
-  
+ 
 _Figure 1: Main view of the XoopsPartner Module \(Admin side\)_
 
 ![image001.png](.gitbook/assets/img_3.jpg)
@@ -49,5 +49,6 @@ Editing the book can be done either by updating the markdown files with a text e
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
 Unless specified, this content is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-All derivative works are to be attributed to XOOPS Project \([www.xoops.org](http://xoops.org)\)
+All derivative works are to be attributed to XOOPS Project \([www.xoops.org](https://xoops.org)\)
 
+All derivative works are to be attributed to XOOPS Project ([www.xoops.org](https://xoops.org))
