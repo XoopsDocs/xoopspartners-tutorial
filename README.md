@@ -4,13 +4,13 @@
       
 ## Module XoopsPartners
   
-#### for XOOPS 2.5.8
+#### for XOOPS 2.5.9
  
-© 2016 XOOPS Project ([www.xoops.org](https://xoops.org)) 
+© 2018 XOOPS Project ([www.xoops.org](https://xoops.org)) 
   
 ### User Manual
 
-© 2016 XOOPS Project \([www.xoops.org](https://xoops.org)\)
+© 2018 XOOPS Project \([www.xoops.org](https://xoops.org)\)
 
 ### Module Purpose
  
@@ -19,7 +19,7 @@ The** Partners module** provides a page and a block for displaying links to the 
  
 _Figure 1: Main view of the XoopsPartner Module \(Admin side\)_
 
-![image001.png](.gitbook/assets/img_3.jpg)
+![](.gitbook/assets/img_3.jpg)
 
 ### Download/Fork the Module ![](https://github.com/xoops/xoopspartners-tutorial/tree/f41bf73b884ccd906dc6a8323363b9b1aa3f8d02/en/assets/forkit.png)
 

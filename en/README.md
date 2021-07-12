@@ -1,14 +1,14 @@
 ### _XOOPS Documentation Series_
-![logoXoops.jpg](assets/logoXoops.jpg)
+![](assets/logoXoops.jpg)
 
 # Module XoopsPartners
 #### for XOOPS 2.5.7
       
-![logoModule.png](assets/logoModule.png)
+![](assets/logoModule.png)
   
 ## User Manual
  
-© 2016 XOOPS Project ([www.xoops.org](https://xoops.org)) 
+© 2018 XOOPS Project ([www.xoops.org](https://xoops.org)) 
   
 
 ## Module Purpose 
@@ -17,7 +17,7 @@
 The** Partners module** provides a page and a block for displaying links to the websites of cooperating organizations, together with short descriptions and optionally logos. Typical usage includes recognition of websites that refer a lot of traffic to your own and ‘thank you’ pages for sponsors.
 
  
-![image001.png](assets/img_3.jpg)  
+![](assets/img_3.jpg)  
 *Figure 1: Main view of the XoopsPartner Module (Admin side)*
 
 ## Download/Fork the Module ![](assets/forkit.png) 
@@ -43,7 +43,7 @@ Editing the book can be done either by updating the markdown files with a text e
 * [Module Credits](book/9credits.md)
 * [About XOOPS CMS](book/10aboutxoops.md)
 
-##License:
+## License:
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Unless specified, this content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
